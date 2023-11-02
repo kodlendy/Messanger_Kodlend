@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455108990082",
+    "project_id": "massengerkodlend",
+    "storage_bucket": "massengerkodlend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455108990082:android:304af46efd30bceeb2509b",
+        "android_client_info": {
+          "package_name": "com.example.messangerkodlend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLNep26VhNs4t7OJvOFWcT68J48IS4RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

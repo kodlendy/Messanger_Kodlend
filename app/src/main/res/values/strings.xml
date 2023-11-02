@@ -1,0 +1,10 @@
+<resources>
+    <string name="messangerKodlendLabel">Messanger kodlend</string>
+    <string name="email">email</string>
+    <string name="password" >password</string>
+    <string name="login">login</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="click_here_to_signup">Click here to signup</string>
+    <string name="log_out">Log Out</string>
+
+</resources>
